@@ -1,7 +1,7 @@
 import discord
 import random
 
-TOKEN = '(TOKEN here)'
+TOKEN = '(TOKEN here)' #token hidden for security purposes
 
 '''Connect to the client and make the bot come online'''
 client = discord.Client()
